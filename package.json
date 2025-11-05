@@ -54,7 +54,6 @@
             "vite": "6.3.5"
       },
       "scripts": {
-      "prebuild": "chmod +x node_modules/.bin/vite",
-      "build": "vite build"
+  "build": "node build.js"
 }
 }
