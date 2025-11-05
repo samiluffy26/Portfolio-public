@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # Professional Portfolio Landing Page
 
@@ -9,3 +10,7 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# Portfolio-public
+My portfolio
+>>>>>>> e20ca06028ed1b277b7706ae3f83526b85b17300
